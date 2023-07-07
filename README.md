@@ -1,5 +1,6 @@
 # vue-ami-editor-5.4
-npm i
+依赖于amis3.2.0 vuera0.2.7  amis-editor5.5.0
+npm i 别用yarn可能有问题 
 
 npm run serve
 
